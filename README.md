@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 A CLI hangman game, Available on Portuguese and English
 
 ## Download and Run
